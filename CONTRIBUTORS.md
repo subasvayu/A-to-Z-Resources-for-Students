@@ -338,6 +338,7 @@ Instructions :
 | 303 | **Fert** | Canada | Aspiring Software Developer | [GitHub](https://github.com/Fertalicious) |
 | 304 | **Aryan Choudhary** | India | Student | [GitHub](https://github.com/aryanc403) |
 | 305 | **Isaac Torres** | Mexico | Software Developer | [GitHub](https://github.com/isaactorresmichel) |
+| 306 | **Subash** | Nepal | Software Developer | [GitHub](https://github.com/subas48) |
 
 ---
 
